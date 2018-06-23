@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Coca-Cola",
+    "clicked": false,
+    "image":
+    "https://www.cheatsheet.com/wp-content/uploads/2016/07/Titans-weed-logo-Kissing-Suzy-Kolber-Uproxx.png?x97369"
+  },
+  {
+    "id": 2,
+    "name": "Texaco",
+    "clicked": false,
+    "image":
+    "https://www.cheatsheet.com/wp-content/uploads/2016/07/Bears-weed-logo-Kissing-Suzy-Kolber-Uproxx-577x500.png?x97369"
+  },
+  {
+    "id": 3,
+    "name": "Starbucks",
+    "clicked": false,
+    "image":
+    "https://www.cheatsheet.com/wp-content/uploads/2016/07/Panthers-weed-logo-Kissing-Suzy-Kolber-Uproxx.png?x97369"
+  },
+  {
+    "id": 4,
+    "name": "GE",
+    "clicked": false,
+    "image":
+    "https://www.cheatsheet.com/wp-content/uploads/2016/07/Denver-Broncos-weed-logo-Kissing-Suzy-Kolber-Uproxx-640x386.png?x97369"
+  },
+  {
+    "id": 5,
+    "name": "Wilson",
+    "clicked": false,
+    "image":
+    "https://www.cheatsheet.com/wp-content/uploads/2016/07/Redskins-weed-logo-Kissing-Suzy-Kolber-Uproxx-487x500.png?x97369"
+  },
+  {
+    "id": 6,
+    "name": "Volkswagen",
+    "clicked": false,
+    "image":
+    "https://www.cheatsheet.com/wp-content/uploads/2016/07/Rams-weed-logo-Kissing-Suzy-Kolber-Uproxx-536x500.png?x97369"
+  },
+  {
+    "id": 7,
+    "name": "Beats",
+    "clicked": false,
+    "image":
+    "https://www.cheatsheet.com/wp-content/uploads/2016/07/Chiefs-weed-logo-Kissing-Suzy-Kolber-Uproxx.png?x97369"
+  },
+  {
+    "id": 8,
+    "name": "Apple",
+    "clicked": false,
+    "image":
+    "https://www.cheatsheet.com/wp-content/uploads/2016/07/Jaguars-weed-logo-Kissing-Suzy-Kolber-Uproxx-640x373.png?x97369"
+  },
+  {
+    "id": 9,
+    "name": "Vikings",
+    "clicked": false,
+    "image":
+    "http://www.nmgncp.com/data/out/250/5819207-nfl-team-logos-wallpaper.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cardinals",
+    "clicked": false,
+    "image":
+    "http://www.nmgncp.com/data/out/250/5819532-nfl-team-logos-wallpaper.jpg"
+  },
+  {
+    "id": 11,
+    "name": "49ers",
+    "clicked": false,
+    "image":
+    "http://www.nmgncp.com/data/out/250/5819470-nfl-team-logos-wallpaper.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Green Bay",
+    "clicked": false,
+    "image":
+    "https://wallpapercave.com/wp/g7X8sAl.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Raiders",
+    "clicked": false,
+    "image":
+    "https://wallpapercave.com/wp/zruV7AT.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Seahawks",
+    "clicked": false,
+    "image":
+    "https://wallpapercave.com/wp/TH1BFy4.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Falcons",
+    "clicked": false,
+    "image":
+    "https://wallpapercave.com/wp/oMxS6LD.jpg"
+  },
+  {
+    "id": 16,
+    "name": "WhatsApp",
+    "clicked": false,
+    "image":
+    "https://wallpapercave.com/wp/gdx3E7M.jpg"
+  }
+]
